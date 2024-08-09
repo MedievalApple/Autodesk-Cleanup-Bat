@@ -47,7 +47,7 @@ for /f "tokens=2*" %%A in (
             echo %%B is being Unistalled silently no progress bar will be shown
             "%%a" -%%b -q
           )
-	      )
+	)
       )
     )
   )
